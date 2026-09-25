@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Darshita 👋
 
-<!--
-**Darshita007/Darshita007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate interested in software development, AI/ML, and building practical technology projects.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java & Data Structures
+- Python
+- AI/ML
+- Git & GitHub
+
+## Projects
+
+### DigitAI – Handwritten Digit Recognition
+Web-based handwritten digit recognition using TensorFlow/Keras, FastAPI, HTML, CSS and JavaScript.
+
+### Smart Eye-Controlled Wheelchair
+Computer-vision based wheelchair control using Python, OpenCV, MediaPipe and Arduino.
+
+## Technologies
+
+ Python • TensorFlow • Keras • FastAPI • OpenCV • MediaPipe • Streamlit • Git • GitHub
+
+## Connect with me
+
+LinkedIn: [https://www.linkedin.com/in/darshita-khobragade-501b69373/]
